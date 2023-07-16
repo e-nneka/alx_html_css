@@ -1,0 +1,2 @@
+HTML Advanced
+Welcome to the HTML Advanced! In this collection of projects, I will have implement webpages from scratch based on designer files. The focus of these projects will be on the HTML structure, without any CSS or styling. The main objective is to create semantically correct HTML markup.
