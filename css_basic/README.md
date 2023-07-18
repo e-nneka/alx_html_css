@@ -1,0 +1,2 @@
+CSS Basic
+This directory contains the necessary CSS files to style the "My First HTML Page" website. The website is designed to showcase basic CSS concepts and follows a responsive layout strategy using CSS Flexbox.
